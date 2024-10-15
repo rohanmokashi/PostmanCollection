@@ -1,2 +1,2 @@
 # PostmanCollection
-Postman Practice
+After Sales Portal API Collection
